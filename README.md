@@ -4,7 +4,7 @@
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=masterfsc&label=Profile%20views&color=0e75b6&style=flat" alt = "masterfsc" /> </p>
 
-- Actualmente me encuentro aprendiendo * * ReactJs, Redux en Henry **
+- Actualmente me encuentro aprendiendo * * ReactJs, Redux ** en <a href="https://www.soyhenry.com/" target="_blank">Henry <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" height="40" width="40"></a>
 
 - ¿Cómo contactarme? **fcosantiagoc@gmail.com**
 
