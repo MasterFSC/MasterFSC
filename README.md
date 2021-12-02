@@ -1,6 +1,6 @@
 <center><img src="https://bibliotecaduitama.files.wordpress.com/2015/03/gif1.gif" width="70%"></center>
 <hr>
-#Hola 👋, me llamo Francisco Santiago de la Cruz
+<h1>Hola 👋, me llamo Francisco Santiago de la Cruz</h1>
 
 >Soy Desarrollador FullStack autodidacta, apasionado por la tecnología y con ganas de seguir aprendiendo. Me inicié en el mundo de la programación desde 2014, creando mi primera aplicación de escritorio utilizando Java, posteriormente ir adentrandome en nuevas tecnologías por curiosidad, con la intención de ir aprendiendo nuevas cosas.
 
