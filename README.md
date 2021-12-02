@@ -1,38 +1,20 @@
+<center><img src="https://bibliotecaduitama.files.wordpress.com/2015/03/gif1.gif" width="70%"></center>
+<hr>
+# Hola 👋, me llamo Francisco Santiago de la Cruz
+> Soy Desarrollador FullStack autodidacta, apasionado por la tecnología y con ganas de seguir aprendiendo. Me inicié en el mundo de la programación desde 2014, creando mi primera aplicación de escritorio utilizando Java, posteriormente ir adentrandome en nuevas tecnologías por curiosidad, con la intención de ir aprendiendo nuevas cosas.
 
-<h1 align = "center"> Hola 👋, me llamo Francisco Santiago de la Cruz </h1>
-<p align = "justify"> Soy Desarrollador FullStack autodidacta, apasionado por la tecnología y con ganas de seguir aprendiendo. Me inicié en el mundo de la programación desde 2014, creando mi primera aplicación de escritorio utilizando Java, posteriormente ir adentrandome en nuevas tecnologías por curiosidad, con la intención de ir aprendiendo nuevas cosas.</p>
+>Me considero una persona autodidácta, organizada y constante, a la que le gusta resolver problemas sin temor a enfrentarme a nuevos desafios.
+
+Actualmente me encuentro cursando un Bootcamp en SoyHenry, aprendiendo el uso de nuevas tecnologías como NodeJS, React, Redux, Expres, Sequalize
+
+<hr>
+## Conocimientos y herramientas
+ <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Logo Java" width ="60px" height="60px"/> </a> <a href="https://developer.android.com" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt ="Logo android" width ="60px" height ="60px"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="Logo PHP" width ="60px" height="60px"/> </a><a href="https://www.javascript.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="Logo JS" width ="60px" height="60px"/> </a><a href="https://nodejs.org/es/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Logo JS" width ="60px" height="60px"/> </a> <a href="https://es.reactjs.org" target="_blank"> <img src="https://img.icons8.com/office/480/000000/react.png" alt="Logo React" width ="60px" height="60px"/> </a><a href="https://es.redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/480/000000/redux.png" alt="Logo Redux" width ="60px" height="60px"/> </a><a href="https://sequelize.org" target="_blank"> <img src="https://sequelize.org/master/manual/asset/logo.png" alt="Logo Sequalize" width ="60px" height="60px"/> </a> <a href="https://www.mysql.com" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="Logo MySQL" width ="90px" height="45px"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Logo PostgreSQL" width ="90px" height="60px"/> </a><a href="https://lesscss.org" target="_blank"> <img src = "https://lesscss.org/public/img/less_logo.png" alt ="Logo less" width ="80" height ="50"/> </a><a href="https://sass-lang.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/sass/sass-original.svg " alt ="Logo sass" width ="80" height ="60"/> </a><a href ="https://www.chartjs.org"target = "_blank"> <img src = "https://www.chartjs.org/img/chartjs-logo.svg" alt ="Logo chartjs" width = "60" height = "60" /></a> </p>
 <br>
-<p align = "justify">
-Me considero una persona autodidácta, organizada y constante, a la que le gusta resolver problemas sin temor a enfrentarme a nuevos desafios. </h3>
-
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=masterfsc&label=Profile%20views&color=0e75b6&style=flat" alt = "masterfsc" /> </p>
-
-- Actualmente me encuentro aprendiendo * * ReactJs, Redux ** en <a href="https://www.soyhenry.com/" target="_blank">Henry <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" height="40" width="40"></a>
-
-<h2>¿Cómo contactarme?</h2>
-
-<h3 align = "left"> Conéctate conmigo: </h3>
-
-<a href="mailto:fcosantiagoc@gmail.com" target="_blank" style="display: inline-blok; margin-right:20px"> <img align = "center" src ="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt ="Contacto Francisco por GMAIL" height ="30" width ="40"/> </a>
-
-<a href="https://www.linkedin.com/in/franciscosantiagoc/" target="_blank"> <img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="https://www.linkedin.com/in/franciscosantiagoc/" height ="30" width ="40"/> </a>
-
-
-<h3 align =" left "> Lenguajes y herramientas: </h3>
-
-<p align = "left"> 
-<a href="https://www.java.com" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt =" java "width =" 40 "height =" 40 "/> </abbr> </a>  <a href="https://developer.android.com" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt ="android" width =" 40 "height =" 40 "/> </a> </p>
-  <p align = "left"> 
-  <a href ="https://www.w3.org/html/"target ="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> <a href = "https://www.w3schools.com/css/" target = "_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="css3 "width =" 40 "height ="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt ="php" width =" 40 "height ="40"/> </a>   <a href ="https://developer.mozilla.org/es/docs/Web/JavaScript/Guide" target ="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt =" javascript " width ="40" height ="40"/> </a> </p>
-    
- <abbr title="prueba"><p align = "left"> 
-  <a href = "https://www.mysql.com/" target ="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt ="mysql" width = "40" height = "40" /> </a> <a href ="https://www.postgresql.org" target ="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt ="postgresql" width ="40" height = "40" /> </a> </p>
-
-
+<a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/480/000000/git.png" alt="Logo GIT" width ="60px" height="60px"/> </a><a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Logo Visual Studio Code" width ="60px" height="60px"/> </a> <a href="https://netbeans.apache.org/download/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" alt="Logo Netbeans" width ="60px" height="60px"/> </a><a href="https://developer.android.com/studio" target="_blank"> <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio-1024x557@2x.png" alt="Logo Android Studio" width ="90px" height="60px"/> </a> <a href="https://www.adobe.com/mx/products/xd.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="Logo Adobe XD" width ="60px" height="60px"/> </a> <a href="https://www.adobe.com/mx/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Logo Adobe Photoshop" width ="60px" height="60px"/> </a> <a href="https://www.linux.org" target="_blank"> <img src="https://www.muycanal.com/wp-content/uploads/2014/03/PCLinux.jpg" alt="Logo Linux" width ="90px" height="60px"/> </a>
  
-  <p align = "left"> 
-  <a href="https://git-scm.com/" target="_blank"> <img src ="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt ="git" width =" 40 "height ="40"/> </a> <a href ="https://www.adobe.com/products/xd.html " target ="_blank"> <img src ="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt ="xd" width ="40" height ="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/sass/sass-original.svg " alt ="sass" width ="40" height ="40"/> </a><a href ="https://www.chartjs.org"target = "_blank"> <img src = "https://www.chartjs.org/img/chartjs-logo.svg" alt ="chartjs" width = "40" height = "40" /></a> </p>
-  
-  <p align = "left"> 
-  <a href="https://www.linux.org/" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt ="linux" width ="40" height ="40"/> </a></p>
+<hr>
+
+## ¿Cómo contactarme?
+<a href="mailto:fcosantiagoc@gmail.com" target="_blank" style="display: inline-blok; margin-right:20px"> <img align = "center" src ="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt ="Contacto Francisco por GMAIL" height ="30" width ="40"/> </a><a href="https://www.linkedin.com/in/franciscosantiagoc/" target="_blank"> <img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="https://www.linkedin.com/in/franciscosantiagoc/" height ="30" width ="40"/> </a>
   
