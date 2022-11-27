@@ -42,12 +42,6 @@ Realizado durante la etapa del Proyecto Individual en Henry, se trata de un SPA 
 
 ![Landing Page](src/p1/01.jpg)
 
-![Home](src/p1/02.jpg)
-
-![Detail pokemon](src/p1/03.jpg)
-
-![Register](src/p1/04.jpg)
-
 >Repositorio
 
 [![portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franciscosantiagoc/PI-Pokemon)
